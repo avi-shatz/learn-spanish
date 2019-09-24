@@ -1,8 +1,7 @@
-Miwok App
+learn-spanish App
 ===================================
 
-This app displays lists of vocabulary words for the user to learn the Miwok language.
-Used in a Udacity course in the Beginning Android Nanodegree.
+This app displays lists of vocabulary words for the user to learn the spanish language.
 
 Pre-requisites
 --------------
@@ -23,8 +22,6 @@ Support
 - Google+ Community: https://plus.google.com/communities/105153134372062985968
 - Stack Overflow: http://stackoverflow.com/questions/tagged/android
 
-Patches are encouraged, and may be submitted by forking this project and
-submitting a pull request through GitHub. Please see CONTRIBUTING.md for more details.
 
 License
 -------
