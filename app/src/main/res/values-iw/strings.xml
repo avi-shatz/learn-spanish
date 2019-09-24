@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LearnSpanish</string>
+
+    <string name="category_colors">צבעים</string>
+    <string name="category_family">משפחה</string>
+    <string name="category_numbers">מספרים</string>
+    <string name="category_phrases">משפטים</string>
+    <string name="main_lable">לימוד ספרדית</string>
+
+    <string name="one">אחת</string>
+    <string name="eight">שמונה</string>
+    <string name="five">חמש</string>
+    <string name="four">ארבע</string>
+    <string name="nine">תשע</string>
+    <string name="seven">שבע</string>
+    <string name="six">שש</string>
+    <string name="ten">עשר</string>
+    <string name="three">שלוש</string>
+    <string name="two">שתיים</string>
+    <string name="aunt">דודה</string>
+    <string name="black">שחור</string>
+    <string name="brown">חום</string>
+    <string name="daughter">בת</string>
+    <string name="father">אבא</string>
+    <string name="grandfather">סבא</string>
+    <string name="grandmother">סבתא</string>
+    <string name="gray">אפור</string>
+    <string name="green">ירוק</string>
+    <string name="mother">אמא</string>
+    <string name="nephew">אחיין</string>
+    <string name="niece">אחיינית</string>
+    <string name="older_brother">אח גדול</string>
+    <string name="older_sister">אחות גדולה</string>
+    <string name="phrase_1">לאן אתה הולך?</string>
+    <string name="phrase_10">בא הנה.</string>
+    <string name="phrase_2">מה שמך?</string>
+    <string name="phrase_3">השם שלי...</string>
+    <string name="phrase_4">איך אתה מרגיש</string>
+    <string name="phrase_5">אני מרגיש מעולה</string>
+    <string name="phrase_6">אתה בא?</string>
+    <string name="phrase_7">כן, אני בא.</string>
+    <string name="phrase_8">אני בא.</string>
+    <string name="phrase_9">בא נלך.</string>
+    <string name="purple">סגול</string>
+    <string name="red">אדום</string>
+    <string name="son">בן</string>
+    <string name="uncle">דוד</string>
+    <string name="white">לבן</string>
+    <string name="yellow">צהוב</string>
+    <string name="younger_brother">אח צעיר</string>
+    <string name="younger_sister">אחות צעירה</string>
+    <string name="orange">כתום</string>
+</resources>

@@ -1,0 +1,81 @@
+<!-- Copyright (C) 2016 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">LearnSpanish</string>
+
+    <string name="main_lable">Learn Spanish</string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_phrases">Phrases</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_colors">Colors</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_numbers">Numbers</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_family">Family Members</string>
+
+    <string name="one">"one"</string>
+    <string name="two">"two"</string>
+    <string name="three">"three"</string>
+    <string name="four">"four"</string>
+    <string name="five">"five"</string>
+    <string name="six">"six"</string>
+    <string name="seven">"seven"</string>
+    <string name="eight">"eight"</string>
+    <string name="nine">"nine"</string>
+    <string name="ten">"ten"</string>
+
+    <string name="red">"red"</string>
+    <string name="green">"green"</string>
+    <string name="brown">"brown"</string>
+    <string name="gray">"gray"</string>
+    <string name="black">"black"</string>
+    <string name="white">"white"</string>
+    <string name="yellow">"yellow"</string>
+    <string name="purple">"purple"</string>
+    <string name="orange">"orange"</string>
+
+    <string name="father">"father"</string>
+    <string name="mother">"mother"</string>
+    <string name="son">"son"</string>
+    <string name="daughter">"daughter"</string>
+    <string name="older_brother">"older brother"</string>
+    <string name="younger_brother">"younger brother"</string>
+    <string name="older_sister">"older sister"</string>
+    <string name="younger_sister">"younger sister"</string>
+    <string name="grandmother">"grandmother"</string>
+    <string name="grandfather">"grandfather"</string>
+    <string name="uncle">"uncle"</string>
+    <string name="aunt">"aunt"</string>
+    <string name="nephew">"nephew"</string>
+    <string name="niece">"niece"</string>
+
+    <string name="phrase_1">"Where are you going?"</string>
+    <string name="phrase_2">"What is your name?"</string>
+    <string name="phrase_3">"my name is..."</string>
+    <string name="phrase_4">"How are you feeling?"</string>
+    <string name="phrase_5">"I’m feeling good."</string>
+    <string name="phrase_6">"Are you coming?"</string>
+    <string name="phrase_7">"Yes, I’m coming."</string>
+    <string name="phrase_8">"I’m coming."</string>
+    <string name="phrase_9">"Let’s go."</string>
+    <string name="phrase_10">"Come here."</string>
+
+
+</resources>
